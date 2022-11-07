@@ -1,3 +1,5 @@
+<img src="https://github.com/franziskas1981/franziskas1981/blob/main/githup_profile_lofi.png">
+
 ### Hi there 👋
 
 <!--
