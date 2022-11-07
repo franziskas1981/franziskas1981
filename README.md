@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+![Franzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=franziskas1981&show_icons=true&theme=jolly)
+
 <!--
 **franziskas1981/franziskas1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
