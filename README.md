@@ -4,7 +4,7 @@
 
 😸Name: Franzi \
 😄Pronouns: She / her \
-💻Workplace: [<img alt="DB Systel" src="https://img.shields.io/badge/-DB%20Systel-F01414?style=flat&logo=deutsche-bahn&logoColor=white" />](https://www.dbsystel.de/dbsystel) \
+💻Workplace: [<img alt="DB Systel" src="https://img.shields.io/badge/-DB%20Systel-F01414?style=flat&logo=deutsche-bahn&logoColor=white" />](https://www.dbsystel.de/dbsystel-en) \
 🔭 Current private projects: CANDI, an app for data driven play-by-email games. Aftermath, a web application for running Aftermath, the Megagame. Both are developed for and with [Project Nexus Megagames](https://github.com/Project-Nexus-Megagames). \
 🧙‍♀️Skills: 
 <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?style=plastic&logo=react&logoColor=white"> 
